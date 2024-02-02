@@ -1,8 +1,10 @@
 package ie.atu.productv2;
 
+import ie.atu.productv3.Product;
+
 import java.text.NumberFormat;
 
-public class Book {
+public class Book extends Product {
 
     private String author;
     private String code;
