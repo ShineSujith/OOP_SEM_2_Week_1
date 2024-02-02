@@ -4,7 +4,7 @@ import ie.atu.productv3.Product;
 
 import java.text.NumberFormat;
 
-public class Book extends Product {
+public class Book {
 
     private String author;
     private String code;
